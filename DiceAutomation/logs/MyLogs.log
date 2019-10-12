@@ -1,0 +1,52 @@
+[INFO ] 2019-10-12 08:32:13.565 [main] FirstTest - Information Message 
+[INFO ] 2019-10-12 08:33:06.237 [main] FirstTest - Information Message 
+[INFO ] 2019-10-12 08:35:35.179 [main] FirstTest - Information Message 
+[INFO ] 2019-10-12 08:40:10.268 [main] FirstTest - My test passes .
+[INFO ] 2019-10-12 08:54:01.868 [main] FirstTest - My test passes .
+[INFO ] 2019-10-12 08:58:53.068 [main] FirstTest - My test passes .
+[INFO ] 2019-10-12 08:59:07.765 [main] FirstTest -  My test passes .
+[INFO ] 2019-10-12 09:04:32.342 [main] FirstTest -  My test passes .
+[INFO ] 2019-10-12 09:05:28.657 [main] FirstTest - My test passes .
+[INFO ] 2019-10-12 09:05:43.985 [main] FirstTest -  My test passes .
+[INFO ] 2019-10-12 09:13:52.960 [main] FirstTest -  My test passes .
+[INFO ] 2019-10-12 09:22:05.362 [main] FirstTest -  My test passes .
+[INFO ] 2019-10-12 09:33:31.455 [main] FirstTest - My test passes .
+[INFO ] 2019-10-12 09:33:48.875 [main] FirstTest -  My test passes .
+[INFO ] 2019-10-12 09:35:33.865 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 09:35:50.747 [main] FirstTest - My test passes .
+[INFO ] 2019-10-12 09:35:50.750 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 09:35:51.902 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 09:36:16.953 [main] FirstTest -  My test passes .
+[INFO ] 2019-10-12 09:36:16.962 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 09:38:59.343 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 09:39:14.205 [main] FirstTest - My first test PASSED .
+[INFO ] 2019-10-12 09:39:14.207 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 09:39:15.220 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 09:39:28.533 [main] FirstTest -  My second test PASSED .
+[INFO ] 2019-10-12 09:39:28.537 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 09:41:19.218 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 09:41:44.578 [main] FirstTest - My first test PASSED .
+[INFO ] 2019-10-12 09:41:44.581 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 09:41:45.934 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 09:41:58.191 [main] FirstTest -  My second test PASSED .
+[INFO ] 2019-10-12 09:41:58.193 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 11:43:27.089 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 11:43:42.153 [main] FirstTest - My first test PASSED .
+[INFO ] 2019-10-12 11:43:42.156 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 11:43:43.249 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 11:43:57.368 [main] FirstTest -  My second test PASSED .
+[INFO ] 2019-10-12 11:43:57.370 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 11:46:27.885 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 11:46:54.466 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 11:53:39.915 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 11:54:09.388 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 11:55:12.032 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 11:56:05.065 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 11:56:29.856 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 11:56:54.970 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 12:02:44.111 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 12:03:11.691 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 12:04:07.541 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 12:04:32.971 [main] FirstTest - Method TEARDOWN 
+[INFO ] 2019-10-12 12:25:18.702 [main] FirstTest - Method SETUP 
+[INFO ] 2019-10-12 12:25:41.967 [main] FirstTest - Method TEARDOWN 

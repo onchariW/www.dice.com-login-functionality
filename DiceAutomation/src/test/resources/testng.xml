@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite_Automation" verbose="1">
+
+	<test name="FirstTestSuite">
+		<classes>
+			<class name="com.dice.LoginTest">
+			<methods>
+			 <exclude name="positiveLoginTest" />
+			</methods>
+			</class>
+			
+		</classes>
+	</test>
+
+
+	
+
+</suite> <!-- Suite -->
